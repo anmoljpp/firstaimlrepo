@@ -38,7 +38,3 @@ print(delivery)
 
 
 # learning github
-
-git add .
-git commit -m "adding comment"
-git push -u origin main
